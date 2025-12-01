@@ -69,20 +69,6 @@
 
 ---
 
-## 📁 Project Structure
-
-project/
-│── partA/        # Gaussian Generative Model (Ahmed Gamal)
-│── partB/        # Naive Bayes Classifier (Mohamed Mostafa)
-│── partC/        # Decision Tree (Mazen Wael)
-│── partD/        # Random Forest (Mazen Wael)
-│── data/         # Dataset files used in all experiments
-│── report.pdf    # Full project report and analysis
-│── README.md
-
-
----
-
 ✔️ Summary
 
 This assignment implements and compares:
