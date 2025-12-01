@@ -70,13 +70,14 @@
 ---
 
 ## 📁 Project Structure
+
 project/
-│── partA/ # Gaussian Generative Model (Ahmed)
-│── partB/ # Naive Bayes (Mohamed)
-│── partC/ # Decision Tree (Mazen)
-│── partD/ # Random Forest (Mazen)
-│── data/
-│── report.pdf
+│── partA/        # Gaussian Generative Model (Ahmed Gamal)
+│── partB/        # Naive Bayes Classifier (Mohamed Mostafa)
+│── partC/        # Decision Tree (Mazen Wael)
+│── partD/        # Random Forest (Mazen Wael)
+│── data/         # Dataset files used in all experiments
+│── report.pdf    # Full project report and analysis
 │── README.md
 
 
